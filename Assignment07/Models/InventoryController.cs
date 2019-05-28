@@ -8,12 +8,12 @@ namespace Assignment07.Models
 {
     public class ItemData
     {
-        public object ItemCode;
+        public string ItemCode;
         public string Description;
-        public double PricePerItem;
-        public int QuantityOnHand;
-        public double OurCostPerItem;
-        public double ValueOfItem;
+        public decimal PricePerItem;
+        public decimal QuantityOnHand;
+        public decimal OurCostPerItem;
+        public decimal ValueOfItem;
 
     }
 }
