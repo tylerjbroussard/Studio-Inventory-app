@@ -1,4 +1,0 @@
-﻿to do:
-
--	add ValidationSummary to the model state and styling
--	
