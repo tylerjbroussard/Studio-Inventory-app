@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace StudioInventory.Controllers
+namespace StudioInventory.Models
 {
     using System;
     using System.Data.Entity;

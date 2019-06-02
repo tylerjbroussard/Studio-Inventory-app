@@ -1135,7 +1135,7 @@ window.Modernizr = (function( window, document, undefined ) {
           // Avoid adding some elements to fragments in IE < 9 because
           // * Attributes like `name` or `type` cannot be set/changed once an element
           //   is inserted into a document/fragment
-          // * Link elements with `src` attributes that are inaccessible, as with
+          // * Vendor elements with `src` attributes that are inaccessible, as with
           //   a 403 response, will cause the tab/window to crash
           // * Script elements appended to fragments will execute when their `src`
           //   or `text` property is set

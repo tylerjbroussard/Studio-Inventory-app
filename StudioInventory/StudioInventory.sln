@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudioInventory", "StudioInventory\StudioInventory.csproj", "{B62313D9-B637-41BD-884D-28D6C8BEC083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp", "..\..\MovieApp\MovieApp\MovieApp.csproj", "{E713078E-8F9F-4107-843D-317A91733077}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{B62313D9-B637-41BD-884D-28D6C8BEC083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B62313D9-B637-41BD-884D-28D6C8BEC083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B62313D9-B637-41BD-884D-28D6C8BEC083}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E713078E-8F9F-4107-843D-317A91733077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E713078E-8F9F-4107-843D-317A91733077}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E713078E-8F9F-4107-843D-317A91733077}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E713078E-8F9F-4107-843D-317A91733077}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

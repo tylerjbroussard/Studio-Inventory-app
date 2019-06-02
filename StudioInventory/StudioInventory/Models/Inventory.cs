@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace StudioInventory.Controllers
+namespace StudioInventory.Models
 {
     using System;
     using System.Collections.Generic;
@@ -17,7 +17,7 @@ namespace StudioInventory.Controllers
         public int Id { get; set; }
         public string ItemCode { get; set; }
         public string Description { get; set; }
-        public int Cost { get; set; }
-        public string Link { get; set; }
+        public double Cost { get; set; }
+        public string Vendor { get; set; }
     }
 }

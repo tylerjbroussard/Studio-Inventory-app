@@ -964,7 +964,7 @@ $.extend( $.validator, {
 					place.insertAfter( element );
 				}
 
-				// Link error back to the element
+				// Vendor error back to the element
 				if ( error.is( "label" ) ) {
 
 					// If the error is a label, then associate using 'for'
